@@ -1,0 +1,5 @@
+matplotlib==3.5.1
+nltk==3.7
+numpy==1.22.2
+openpyxl==3.0.9
+Sastrawi==1.0.1
